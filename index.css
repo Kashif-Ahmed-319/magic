@@ -1,0 +1,120 @@
+/*          font-family: "Prata", serif;          */
+
+/*          font-family: "Work Sans", sans-serif;          */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.css-back{
+    background-image: url("images/island-hero-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+}
+
+.custom{
+    height: 100vh;
+}
+
+.css-heading-one{
+    font-family: "Prata", serif; 
+    font-size: 60px;
+    color:#07277c;
+}
+
+.css-heading-two{
+    font-family: "Prata", serif; 
+    font-size: 88px;
+    color:#07277c;
+}
+
+/* cards */
+
+.card-back{
+    background-color: #EFF9FF;
+}
+
+.css-card{
+    font-family: "Prata", serif;  
+    font-size: 45px;
+    color: #07277c;
+}
+
+.css-para{
+    font-family: "Work Sans", sans-serif;
+    font-size: 20px;
+}
+
+.card-padding{
+    padding: 90px;
+}
+
+/* our services */
+
+.our-heading{
+    color: #07277c;
+    font-family: "Prata", serif; 
+    font-size: 60px;
+}
+
+.our-image{
+    height: 40vh;
+}
+
+.our-head{
+    color: #07277c;
+    font-family: "Prata", serif; 
+    font-size: 30px;
+}
+
+.our-para{
+    font-family: "Work Sans", sans-serif;  
+    font-size: 18px;
+}
+
+/* why chose us */
+
+.chose-image{
+    height: 80vh;
+}
+
+.our-padding{
+    padding: 10%;
+}
+
+.our-text-padding{
+    padding: 10% 10% 10% 10%;
+}
+
+/* testimonials */
+.custom-testi{
+    color: #07277c;
+    font-family: "Prata", serif; 
+    font-size: 50px;
+    margin: 90px 90px 90px 90px;
+}
+
+.testi-h{
+    font-family: "Work Sans", serif; 
+    font-size: 30px;
+}
+
+.testi-p{
+    font-family: "Work Sans", sans-serif;  
+    font-size: 18px;
+    margin: 40px 90px 200px 90px;
+}
+
+/* footer image */
+.footer-back{
+    background-image: url("images/island-hero-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.custom-height{
+    height: 100vh;
+}
